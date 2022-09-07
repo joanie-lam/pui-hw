@@ -1,17 +1,3 @@
-# PUI homework
-
-Deployed website(hw1): https://joanie-lam.github.io/pui-hw/homework-materials/HW1/solution-hw1/
-
-Repository link(hw1): https://github.com/joanie-lam/pui-hw
-
-
-
-
-
-
-
-
-
 # Programming Usable Interfaces
 
 Welcome to PUI! Here are some essential information.
